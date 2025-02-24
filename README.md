@@ -1,4 +1,4 @@
-# Image Steganography in Python
+# Secure Data Hiding in Image Using Steganography
 
 ## Description
 This project demonstrates basic **steganography**, a method of hiding secret messages inside an image by modifying pixel values. The program allows users to encrypt a message into an image and later decrypt it using a passcode.
