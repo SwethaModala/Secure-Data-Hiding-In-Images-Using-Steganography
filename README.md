@@ -52,8 +52,6 @@ Decryption message: Hello World
 - Basic security; an advanced cryptographic approach would be more secure.
 
 ## Future Improvements
-- Use **LSB (Least Significant Bit) Steganography** for better security.
-- Support multiple image formats.
 - Implement a GUI for ease of use.
 
 
