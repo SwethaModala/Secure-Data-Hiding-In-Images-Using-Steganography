@@ -56,6 +56,4 @@ Decryption message: Hello World
 - Support multiple image formats.
 - Implement a GUI for ease of use.
 
-## Author
-[Your Name]
 
